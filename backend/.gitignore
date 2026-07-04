@@ -1,0 +1,14 @@
+target/
+*.class
+.idea/
+*.iml
+.vscode/
+.DS_Store
+
+# Never commit files containing real secrets
+application-local.properties
+application-secrets.properties
+
+.env
+.env.*
+*.env

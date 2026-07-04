@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Secrets — NEVER commit real API keys
+*.env
+.env
+.env.local
+application-local.properties
+application-secrets.properties
+
+# Tool-generated upgrade session files
+.github/modernize/

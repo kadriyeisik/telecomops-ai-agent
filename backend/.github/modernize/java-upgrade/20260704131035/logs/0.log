@@ -1,0 +1,17 @@
+2026-07-04T13:10:35.761Z [INFO] ----------------------invoke appmod-redirect-to-upgrade-agent----------------------
+2026-07-04T13:10:35.762Z [INFO] [Tool.invoke]({name: appmod-redirect-to-upgrade-agent, modelId: auto, input: {
+  "originalPrompt": "upgrade java runtime to the latest LTS version",
+  "projectPath": "c:\\Users\\kadri\\Desktop\\pia-agent\\backend"
+}}).
+2026-07-04T13:10:35.763Z [INFO] [Tool.invoke] do invoke.
+2026-07-04T13:10:35.764Z [INFO] [RedirectToUpgradeAgentTool] Redirecting to custom agent "modernize-java-upgrade" with prompt: upgrade java runtime to the latest LTS version
+2026-07-04T13:10:35.864Z [INFO] [RedirectToUpgradeAgentTool] Redirected to custom agent "modernize-java-upgrade". User MUST switch to the new agent to continue.
+2026-07-04T13:10:35.866Z [INFO] [Tool.invoke]({result: {
+  "message": "The upgrade request has been redirected to the \"modernize-java-upgrade\" agent in a new chat session. You MUST! stop processing in this session.",
+  "result": {
+    "redirected": true,
+    "agentName": "modernize-java-upgrade",
+    "prompt": "upgrade java runtime to the latest LTS version"
+  }
+}}).
+2026-07-04T13:10:35.866Z [INFO] ----------------------invoked appmod-redirect-to-upgrade-agent----------------------
