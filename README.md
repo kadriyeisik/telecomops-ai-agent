@@ -13,6 +13,7 @@
 ![React](https://img.shields.io/badge/React-18.3-61DAFB?style=flat-square&logo=react)
 ![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-412991?style=flat-square&logo=openai)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/kadriyeisik/telecomops-ai-agent)
 
 **A domain-specific AI agent that diagnoses and resolves telecom network issues through a fully automated, multi-step diagnostic pipeline.**
 
